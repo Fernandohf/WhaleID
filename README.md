@@ -6,4 +6,5 @@ A simple Siamese-like network to compare and identify whales.
 
 ## Details - TODO
 
+TRY TRANSFER LEARNINGS
 ...
